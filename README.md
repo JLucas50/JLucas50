@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https.lucasito?igshid=OGQ5ZDc2ODk2ZA==)
 
-![ivyson855 GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyson855&show_icons=true&theme=radical)
+![JLucas50 GitHub stats](https://github-readme-stats.vercel.app/api?username=JLucas50&show_icons=true&theme=radical)
 
 ## Tecnologia que eu uso no meu dia
 
